@@ -1,0 +1,31 @@
+.main-wrapper-container {
+    margin: 0px;
+}
+
+.top-row-header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.form-control {
+    box-sizing: initial;
+    margin-bottom: 10px;
+}
+
+.top-container {
+    background-color: rgb(0, 13, 108);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+.card {
+    margin: 20px 20px 20px 20px;
+
+}
+
